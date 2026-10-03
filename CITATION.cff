@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use OraTriage Bench, please cite it as below."
+title: "OraTriage Bench: a benchmark for triaging Oracle EBS and Database alerts"
+version: "1.0"
+date-released: 2026-10-02
+url: "https://github.com/shopsmartai/oratriage-bench"
+license: CC-BY-4.0
+authors:
+  - name: "shopsmartai"
+keywords:
+  - oracle
+  - oracle-ebs
+  - aiops
+  - benchmark
+  - alert-triage
