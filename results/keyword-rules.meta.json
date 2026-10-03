@@ -1,0 +1,6 @@
+{
+  "engine": "Keyword rules (baseline)",
+  "cost_per_1k_usd": 0.0,
+  "data_leaves_company": false,
+  "notes": "Regex weights written by hand; no training data."
+}

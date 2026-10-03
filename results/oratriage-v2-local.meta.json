@@ -1,0 +1,6 @@
+{
+  "engine": "OraTriage v2, local (Ollama)",
+  "cost_per_1k_usd": 0.0,
+  "data_leaves_company": false,
+  "notes": "Same heads on nomic-embed-text embeddings via Ollama."
+}

@@ -1,0 +1,6 @@
+{
+  "engine": "OraTriage v2, inside Oracle 23ai",
+  "cost_per_1k_usd": 0.0,
+  "data_leaves_company": false,
+  "notes": "Closed model: in-database ONNX MiniLM embedding + SQL TF-IDF + calibrated heads, trained on 1,812 synthetic alerts labeled by Claude. Latency on an Apple M3 laptop."
+}

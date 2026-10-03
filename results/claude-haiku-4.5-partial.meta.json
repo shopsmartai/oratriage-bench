@@ -1,0 +1,6 @@
+{
+  "engine": "Claude Haiku 4.5 (zero-shot, via OpenRouter)",
+  "cost_per_1k_usd": 1.56,
+  "data_leaves_company": true,
+  "notes": "Partial run: 86 of 295 alerts before the account ran out of credit. Not comparable to full runs; listed for transparency."
+}
